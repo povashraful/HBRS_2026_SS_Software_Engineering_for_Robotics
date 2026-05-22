@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # HBRS_2026_SS_Software_Engineering_for_Robotics
 
-=======
+
 # Robot Safety Behaviour Testing and Quality Assurance
 
 This repository is part of SER Assignment 2: Testing and Quality Assurance.
@@ -14,4 +13,4 @@ The robot safety logic focuses on two important situations:
 - imminent collision condition
 
 In this assignment, we extend the previous implementation with a new safety functionality and verify the system using unit and integration tests.
->>>>>>> 037e01d (Initial commit)
+
